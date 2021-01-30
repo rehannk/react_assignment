@@ -14,17 +14,17 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser. a
 
 ## Doctor
 
-1.. Doctor login.
-2.. Doctor dashboard.
-3.. Doctor will add, delete, and edit patient.
-4.. it will also search patient by name, diagnosis and prescribed medication.
+1. Doctor login.
+2. Doctor dashboard.
+3. Doctor will add, delete, and edit patient.
+4. it will also search patient by name, diagnosis and prescribed medication.
 
 ## Patient
 
-1.. Patient login.
-2.. Patient dashboard.
-3.. patient will only see his/her details
-4.. patient will change its password.
+1. Patient login.
+2. Patient dashboard.
+3. patient will only see his/her details
+4. patient will change its password.
 
 Validation is apply for password, phone number and pincode.
 Default Password: healthcare.
