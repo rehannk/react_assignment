@@ -28,3 +28,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser. a
 
 Validation is apply for password, phone number and pincode.
 Default Password: healthcare.
+
+Doctor credentials
+Email: doctor@gmail.com
+Pass: 123123
+
+Json server data
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
