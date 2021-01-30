@@ -1,0 +1,72 @@
+{
+  "patient": [
+    {
+      "diagnosis": [
+        "fever",
+        "cold"
+      ],
+      "prescribed_medication": [
+        "crocin",
+        "capsule"
+      ],
+      "password": "123123",
+      "email": "sd@gmail.com",
+      "firstName": "Sandy",
+      "lastName": "Chang",
+      "phone": "9665844234",
+      "address": "Bandra",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "pincode": "400098",
+      "id": 2
+    },
+    {
+      "diagnosis": [
+        "malaria",
+        "touncil",
+        "cold"
+      ],
+      "prescribed_medication": [
+        "combiflam"
+      ],
+      "password": "rehan@123R",
+      "email": "rehan@gmail.com",
+      "firstName": "rehan",
+      "lastName": "khan",
+      "phone": "8655235620",
+      "address": "Kurla",
+      "city": "Chandigadh",
+      "state": "Panjab",
+      "country": "India",
+      "pincode": "986535",
+      "id": 3
+    },
+    {
+      "diagnosis": [
+        "rtret.ertret"
+      ],
+      "prescribed_medication": [
+        "wetewrt",
+        "tewwet"
+      ],
+      "email": "test@rr.com",
+      "password": "healthcare",
+      "firstName": "tre",
+      "lastName": "gdf",
+      "phone": "5454364646",
+      "address": "tewwetew",
+      "city": "ewtwet",
+      "state": "ewtewt",
+      "country": "ewtwet",
+      "pincode": "346434",
+      "id": 4
+    }
+  ],
+  "doctor": [
+    {
+      "email": "doctor@gmail.com",
+      "password": "123123"
+    }
+  ]
+}
